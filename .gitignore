@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs
+/GitSampleMVC/.vs
+/GitSampleMVC/packages
+/GitSampleMVC/GitSampleMVC/bin
+/GitSampleMVC/GitSampleMVC/obj/Debug
