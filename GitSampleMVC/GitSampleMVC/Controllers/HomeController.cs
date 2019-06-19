@@ -17,7 +17,7 @@ namespace GitSampleMVC.Controllers
         public ActionResult About()
         {
             ViewBag.Message = "Your application description page.";
-
+            // I have made this change at Visual Studio Enterprise
             return View();
         }
 
