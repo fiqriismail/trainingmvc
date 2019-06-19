@@ -10,6 +10,7 @@ namespace GitSampleMVC.Controllers
     {
         public ActionResult Index()
         {
+            // This was changed under VS Code
             return View();
         }
 
